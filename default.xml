@@ -521,7 +521,7 @@
   <project path="system/chre" name="platform/system/chre" groups="pdk" remote="aosp" />
   <project path="system/connectivity/wificond" name="LineageOS/android_system_connectivity_wificond" groups="pdk" />
   <project path="system/connectivity/wifilogd" name="platform/system/connectivity/wifilogd" groups="pdk" remote="aosp" />
-  <project path="system/core" name="LineageOS/android_system_core" groups="pdk" />
+  <!--project path="system/core" name="LineageOS/android_system_core" groups="pdk" /-->
   <project path="system/extras" name="LineageOS/android_system_extras" groups="pdk" />
   <project path="system/gatekeeper" name="LineageOS/android_system_gatekeeper" groups="pdk" />
   <project path="system/hardware/interfaces" name="platform/system/hardware/interfaces" groups="pdk" remote="aosp" />
@@ -575,6 +575,7 @@
   <project path="frameworks/av" name="BroadcomOreo/android_frameworks_av" remote="github" revision="lineage-15.1" />                                                                                                               
   <project path="frameworks/base" name="BroadcomOreo/android_frameworks_base" remote="github" revision="lineage-15.1" />
   <project path="external/icu" name="BroadcomOreo/android_external_icu" remote="github" revision="lineage-15.1" />
+  <project path="system/core" name="BroadcomOreo/android_system_core"remote="github" revision="lineage-15.1" />
   <project path="kernel/samsung/kyleproxx" name="BroadcomOreo/android_kernel_samsung_kyleproxx" remote="github" revision="lineage-15.1" />
   <project path="vendor/samsung/kyleproxx" name="ishantvivek/android_vendor_samsung_kyleproxx" remote="github" revision="7.0" />
   <project path="external/chromium-webview" name="ishantvivek/android_external_chromium-webview" clone-depth="1" remote="github" revision="7.0" />
