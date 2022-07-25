@@ -576,7 +576,7 @@
   <project path="frameworks/base" name="BroadcomOreo/android_frameworks_base" remote="github" revision="lineage-15.1" />
   <project path="frameworks/native" name="BroadcomOreo/android_frameworks_native" remote="github" revision="lineage-15.1" />
   <project path="external/icu" name="BroadcomOreo/android_external_icu" remote="github" revision="lineage-15.1" />
-  <project path="system/core" name="BroadcomOreo/android_system_core"remote="github" revision="lineage-15.1" />
+  <project path="system/core" name="BroadcomOreo/android_system_core" remote="github" revision="lineage-15.1" />
   <project path="kernel/samsung/kyleproxx" name="BroadcomOreo/android_kernel_samsung_kyleproxx" remote="github" revision="lineage-15.1" />
   <project path="vendor/samsung/kyleproxx" name="ishantvivek/android_vendor_samsung_kyleproxx" remote="github" revision="7.0" />
   <project path="external/chromium-webview" name="ishantvivek/android_external_chromium-webview" clone-depth="1" remote="github" revision="7.0" />
