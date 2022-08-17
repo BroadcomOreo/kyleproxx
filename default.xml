@@ -537,7 +537,6 @@
   <project path="system/nfc" name="LineageOS/android_system_nfc" groups="pdk" />
   <project path="system/nvram" name="platform/system/nvram" groups="pdk" remote="aosp" />
   <project path="system/security" name="LineageOS/android_system_security" groups="pdk" />
-  <project path="system/sepolicy" name="LineageOS/android_system_sepolicy" groups="pdk" />
   <project path="system/timezone" name="LineageOS/android_system_timezone" groups="pdk" />
   <project path="system/tools/aidl" name="LineageOS/android_system_tools_aidl" groups="pdk" />
   <project path="system/tools/hidl" name="LineageOS/android_system_tools_hidl" groups="pdk" />
@@ -580,6 +579,7 @@
   <project path="vendor/lineage" name="BroadcomOreo/android_vendor_lineage" remote="github" revision="lineage-15.1" />
   <project path="kernel/samsung/kyleproxx" name="BroadcomOreo/android_kernel_samsung_kyleproxx-TEST" remote="github" revision="test-oreo" />
   <project path="vendor/samsung/kyleproxx" name="BroadcomOreo/android_vendor_samsung_kyleproxx" remote="github" revision="lineage-15.1" />
+  <project path="system/sepolicy" name="BroadcomOreo/android_system_sepolicy" remote="github" revision="lineage-15.1" />
   <project path="hardware/samsung" name="BroadcomOreo/android_hardware_samsung" remote="github" revision="lineage-15.1" />
   <project path="external/chromium-webview" name="ishantvivek/android_external_chromium-webview" clone-depth="1" remote="github" revision="7.0" />
   <!--project path="external/stlport" name="CyanogenMod/android_external_stlport" groups="pdk" /-->
